@@ -147,11 +147,6 @@ class Szczeniak extends Psowate
  Pies1.dajGlos();
  Wilk1.dajGlos();
  //cw 6
- /*Stwórz klasę abstrakcyjną artysta, która zawiera
-metody: tworzDzielo() oraz kontempluj().
-Następnie utwórz klasy rzeźbiarz, malarz,
-pisarz.
-*/
 class Artysta{
     constructor(imie,nazwaDziela,narzedzia)
     {
